@@ -6,6 +6,15 @@ Hey, I'm Onur Can! 👋
 - I try to learn and practice new things in my spare time outside of university and work 
 - Over time, I will post them on my github page
 
+**Languages and Tools:**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+
+[![Twitter: OnurCanAvci](https://img.shields.io/twitter/follow/OnurCanAvci?style=social)](https://twitter.com/onurcanavci)
+[![Linkedin: OnurCanAvci](https://img.shields.io/badge/-OnurCanAvci-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/OnurCanAvci/)](https://www.linkedin.com/in/onurcanavci/)
+[![GitHub OnurCanAvci](https://img.shields.io/github/followers/OnurCanAvci?label=follow&style=social)](https://github.com/onurcanavci)
+
 ![](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
 
 
