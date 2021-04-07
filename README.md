@@ -3,6 +3,9 @@ Hey, I'm Onur Can! 👋
 
 - I'm a computer engineering student at Bogazici University 👨🏻‍🎓
 - I'm working as a frontend developer at @Trendyol 👨🏻‍💻
+- I'm interested in FinTech, Blockchain and Cryptocurrencies 🏦🔗📈 
+- I'm following NBA and I like playing basketball 🏀 
+
 - I try to learn and practice new things in my spare time outside of university and work 
 - Over time, I will post them on my github page
 
