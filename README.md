@@ -18,6 +18,7 @@ Hey, I'm Onur Can! 👋
 [![Twitter: OnurCanAvci](https://img.shields.io/twitter/follow/OnurCanAvci?style=social)](https://twitter.com/onurcanavci)
 [![Linkedin: OnurCanAvci](https://img.shields.io/badge/-OnurCanAvci-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/OnurCanAvci/)](https://www.linkedin.com/in/onurcanavci/)
 [![GitHub OnurCanAvci](https://img.shields.io/github/followers/OnurCanAvci?label=follow&style=social)](https://github.com/onurcanavci)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=onurcanavci)
 
 ![](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
 
